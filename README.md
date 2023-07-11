@@ -1,5 +1,8 @@
-# GoogleMapsfeature
-Invented feature for Google Maps to deal with heatwaves and high UV sun exposure
+# Google Maps walking route prototype feature
+
+## I prototyped this new and climate-adapted feature for Google Maps to deal with heat waves and high UV sun exposure.
 
 
-![Invented Google Maps feautre](Low Sun Exposure Google Maps.png)
+![Invented Google Maps feautre] (Low_Sun_Exposure_Google_Maps.png)
+
+Introducing a new Google Maps' groundbreaking (a personal wish - prototype) feature that revolutionizes walking routes. Designed to protect individuals during heatwaves and minimize sun exposure, "Low UV option" analyzes real-time sun orientation and weather data to provide the optimal path while keeping you cool and safe. Say goodbye to UV issues and hello to a healthier society that can enjoy walking without worrying about high sun exposure.
